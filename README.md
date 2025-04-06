@@ -67,7 +67,7 @@
 </head>
 <body>
 
-  <Coconut ="logo" src="WhatsApp Image 2024-11-25 at 22.09.41.jpeg" alt="شعار Mouna Shop">
+  <Coconut ="logo" src="ؤؤؤ/WhatsApp Image 2024-11-25 at 22.09.41.jpeg" alt="شعار Mouna Shop">
 
   <h2>أدخل كود المنتج</h2>
   <input type="text" id="productCode" placeholder="مثال: XYZ123">
